@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1567531749942,4843,noomis503 /home,200,OK,Thread Group 1-1,text,true,,3272,433,1,1,https://qa.noomis.febraban.org.br/home,4843,0,4522
+1567531754787,372,noomis540 /o/oauth2/iframe,200,OK,Thread Group 1-1,text,true,,1173,438,1,1,https://accounts.google.com/o/oauth2/iframe,372,0,262
+1567531755177,5138,noomis531 /qa/content,200,OK,Thread Group 1-1,text,true,,26384,455,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,5137,0,4243
+1567531760316,704,noomis530 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,6291,455,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,704,0,167
+1567531761021,243,noomis526 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,427,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,243,0,0
+1567531761265,375,noomis528 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,4619,453,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,375,0,0
+1567531761641,406,noomis527 /qa/content,200,OK,Thread Group 1-1,text,true,,16640,459,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,405,0,0
+1567531762048,724,noomis529 /qa/content,200,OK,Thread Group 1-1,text,true,,14839,456,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,724,0,0
+1567531762773,740,noomis565 /qa/content,200,OK,Thread Group 1-1,text,true,,1349,470,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,740,0,535
+1567531763514,270,noomis560 /qa/content,200,OK,Thread Group 1-1,text,true,,2587,477,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,270,0,0
+1567531763784,312,noomis561 /qa/content,200,OK,Thread Group 1-1,text,true,,7973,477,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,312,0,0
+1567531764097,275,login606 /o/oauth2/auth,200,OK,Thread Group 1-1,text,true,,1955,730,1,1,https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Fqa.noomis.febraban.org.br%3Fid%3Dauth137192&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&client_id=953908925017-ilqp35g5tprmclouve4aa88h33qb0olv.apps.googleusercontent.com&ss_domain=https%3A%2F%2Fqa.noomis.febraban.org.br&fetch_basic_profile=true&gsiwebsdk=2,273,0,112
+1567531764742,440,login608 /accounts/CheckConnection,200,OK,Thread Group 1-1,text,true,,12521,911,1,1,https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1471234930&timestamp=1567434549631,435,0,308
+1567531765183,119,login630 /o/oauth2/iframerpc,200,OK,Thread Group 1-1,text,true,,626,802,1,1,https://accounts.google.com/o/oauth2/iframerpc?action=issueToken&response_type=token%20id_token&login_hint=AJDLj6ITFJsmFe44FvXmOHTDy-LHHRA3OvDj6yLqUylJoL-SE_aj1mWTcug4hzjE6CCvEq8H2UIEC07EkOpJ2WSGItHG1NXrUrBzGA-kwrdGF4o2fTGiKdU&client_id=953908925017-ilqp35g5tprmclouve4aa88h33qb0olv.apps.googleusercontent.com&origin=https%3A%2F%2Fqa.noomis.febraban.org.br&scope=openid%20profile%20email&ss_domain=https%3A%2F%2Fqa.noomis.febraban.org.br,117,0,0
+1567531765302,837,login632 /qa/auth/signupwithgoogle,200,OK,Thread Group 1-1,text,true,,744,457,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/auth/signupwithgoogle,837,0,207
+1567531766140,211,login634 /qa/auth/user,200,OK,Thread Group 1-1,text,true,,743,445,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/auth/user,211,0,0
+1567531766351,237,login636 /qa/auth/user,200,OK,Thread Group 1-1,text,true,,2331,733,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/auth/user,237,0,0
+1567531766589,988,login637 /home,304,Not Modified,Thread Group 1-1,text,true,,651,468,1,1,https://qa.noomis.febraban.org.br/home,0,0,171
+1567531767577,727,login657 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,410,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,727,0,198
+1567531768304,190,login658 /qa/content?size=4&page=1&order=spotlight,200,OK,Thread Group 1-1,text,true,,743,499,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,190,0,0
+1567531768494,219,login667 /o/oauth2/iframe,200,OK,Thread Group 1-1,text,true,,1119,459,1,1,https://accounts.google.com/o/oauth2/iframe,216,0,108
+1567531768714,203,login661 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,743,495,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,203,0,0
+1567531768917,203,login659 /qa/author/getspecialistscard?qty=4,200,OK,Thread Group 1-1,text,true,,743,493,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,203,0,0
+1567531769120,178,login662 /qa/content?size=4&page=1&order=trend,200,OK,Thread Group 1-1,text,true,,743,495,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,177,0,0
+1567531769298,199,login660 /qa/content?size=4&page=1&order=recent,200,OK,Thread Group 1-1,text,true,,743,496,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,199,0,0
+1567531769497,441,login670 /qa/content?size=1&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,517,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,441,0,0
+1567531769938,681,log680 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,4619,781,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,681,0,191
+1567531770620,191,log678 /qa/content?size=2&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,517,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,191,0,0
+1567531770812,356,log679 /qa/content,200,OK,Thread Group 1-1,text,true,,16640,787,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,356,0,0
+1567531771171,279,log681 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,6180,783,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,279,0,0
+1567531771450,1225,log682 /qa/content,200,OK,Thread Group 1-1,text,true,,14839,784,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,1225,0,0
+1567531772676,729,loged688 /qa/content,200,OK,Thread Group 1-1,text,true,,26384,783,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,728,0,331
+1567531773404,425,loged690 /qa/content,200,OK,Thread Group 1-1,text,true,,2587,805,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,425,0,0
+1567531773830,459,loged693 /qa/content?size=1&page=1&order=recent&type=magazine,200,OK,Thread Group 1-1,text,true,,743,510,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,459,0,0
+1567531774289,475,loged697 /qa/content,200,OK,Thread Group 1-1,text,true,,7973,805,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,475,0,0
+1567531774765,663,loged706 /qa/content,200,OK,Thread Group 1-1,text,true,,1349,798,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,663,0,193
+1567531775428,446,especialistas738 /qa/author/getspecialistscard?qty=100,200,OK,Thread Group 1-1,text,true,,743,504,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=100,446,0,0
+1567531775874,572,especialistas751 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,9391,792,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=100,572,0,0
+1567531776447,508,perfil765 /editarPerfil,200,OK,Thread Group 1-1,text,true,,5042,407,1,1,https://qa.noomis.febraban.org.br/editarPerfil,508,0,280
+1567531776955,383,perfil766 /qa/tag,200,OK,Thread Group 1-1,text,true,,743,447,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/tag,383,0,201
+1567531777338,256,perfil768 /o/oauth2/iframe,200,OK,Thread Group 1-1,text,true,,1141,467,1,1,https://accounts.google.com/o/oauth2/iframe,255,0,131
+1567531777595,256,perfil770 /qa/tag,200,OK,Thread Group 1-1,text,true,,1199,735,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/tag,255,0,0
+1567531777851,283,em alta779 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,283,0,0
+1567531778135,301,em alta775 /qa/author/getall,200,OK,Thread Group 1-1,text,true,,12961,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getall,301,0,0
+1567531778437,261,em alta776 /qa/origin/getall,200,OK,Thread Group 1-1,text,true,,4302,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/origin/getall,261,0,0
+1567531778699,220,em alta778 /qa/magazine/filters,200,OK,Thread Group 1-1,text,true,,1719,397,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/magazine/filters,220,0,0
+1567531778919,179,em alta780 /qa/content?size=10&page=1&order=trend&type=recent,200,OK,Thread Group 1-1,text,true,,743,484,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=trend&type=recent,179,0,0
+1567531779098,781,em alta777 /qa/category/getall,200,OK,Thread Group 1-1,text,true,,2406,396,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/category/getall,781,0,232
+1567531779880,568,em alta783 /qa/content,200,OK,Thread Group 1-1,text,true,,63010,772,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=trend&type=recent,367,0,0
+1567531780449,230,em alta785 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,230,0,0
+1567531780686,188,video796 /qa/category/getall,200,OK,Thread Group 1-1,text,true,,2406,396,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/category/getall,188,0,0
+1567531780875,175,video799 /qa/content?size=10&page=1&order=recent&type=video,200,OK,Thread Group 1-1,text,true,,743,484,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=recent&type=video,175,0,0
+1567531781051,203,video797 /qa/magazine/filters,200,OK,Thread Group 1-1,text,true,,1719,397,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/magazine/filters,203,0,0
+1567531781254,655,video794 /qa/author/getall,200,OK,Thread Group 1-1,text,true,,12961,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getall,655,0,173
+1567531781909,490,video795 /qa/origin/getall,200,OK,Thread Group 1-1,text,true,,4302,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/origin/getall,490,0,0
+1567531782400,216,video798 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,216,0,0
+1567531782616,398,video802 /qa/content,200,OK,Thread Group 1-1,text,true,,31816,772,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=recent&type=video,365,0,0
+1567531783015,299,video804 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,299,0,0
+1567531783316,685,home815 /qa/content?size=4&page=1&order=recent,200,OK,Thread Group 1-1,text,true,,743,470,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,685,0,243
+1567531784001,307,home812 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,384,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,307,0,0
+1567531784309,635,home813 /qa/author/getspecialistscard?qty=4,200,OK,Thread Group 1-1,text,true,,743,467,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,635,0,0
+1567531784944,200,home814 /qa/content?size=4&page=1&order=spotlight,200,OK,Thread Group 1-1,text,true,,743,473,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,200,0,0
+1567531785145,192,home817 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,743,469,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,192,0,0
+1567531785337,697,home816 /qa/content?size=4&page=1&order=trend,200,OK,Thread Group 1-1,text,true,,743,469,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,697,0,249
+1567531786034,268,home824 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,6180,757,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,267,0,0
+1567531786303,222,home820 /qa/content?size=2&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,491,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,222,0,0
+1567531786526,259,home818 /qa/content?size=1&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,491,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,259,0,0
+1567531786786,413,home825 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,4619,755,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,413,0,0
+1567531787200,632,home821 /qa/content?size=1&page=1&order=recent&type=magazine,200,OK,Thread Group 1-1,text,true,,743,484,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,632,0,0
+1567531787832,753,home823 /qa/content,200,OK,Thread Group 1-1,text,true,,26384,757,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,720,0,198
+1567531788585,387,home822 /qa/content,200,OK,Thread Group 1-1,text,true,,16640,761,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,380,0,0
+1567531788973,289,home819 /qa/content,200,OK,Thread Group 1-1,text,true,,14839,758,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,289,0,0
+1567531789262,542,home828 /qa/content,200,OK,Thread Group 1-1,text,true,,7973,779,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,542,0,0
+1567531789804,491,home829 /qa/content,200,OK,Thread Group 1-1,text,true,,2587,779,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,491,0,0
+1567531790296,1134,home831 /qa/content,200,OK,Thread Group 1-1,text,true,,1349,772,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,1134,0,921
+1567531791433,456,noomis503 /home,200,OK,Thread Group 1-1,text,true,,3272,485,1,1,https://qa.noomis.febraban.org.br/home,456,0,187
+1567531791889,345,noomis540 /o/oauth2/iframe,200,OK,Thread Group 1-1,text,true,,1006,502,1,1,https://accounts.google.com/o/oauth2/iframe,344,0,244
+1567531792235,948,noomis531 /qa/content,200,OK,Thread Group 1-1,text,true,,26384,455,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,946,0,243
+1567531793184,213,noomis530 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,6291,455,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,213,0,0
+1567531793398,225,noomis526 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,427,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,225,0,0
+1567531793623,477,noomis528 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,4619,453,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,477,0,0
+1567531794101,426,noomis527 /qa/content,200,OK,Thread Group 1-1,text,true,,16640,459,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,426,0,0
+1567531794528,612,noomis529 /qa/content,200,OK,Thread Group 1-1,text,true,,14839,456,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,612,0,169
+1567531795141,289,noomis565 /qa/content,200,OK,Thread Group 1-1,text,true,,1349,470,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,289,0,0
+1567531795431,278,noomis560 /qa/content,200,OK,Thread Group 1-1,text,true,,2587,477,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,278,0,0
+1567531795710,520,noomis561 /qa/content,200,OK,Thread Group 1-1,text,true,,7973,477,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,520,0,0
+1567531796231,344,login606 /o/oauth2/auth,200,OK,Thread Group 1-1,text,true,,1889,794,1,1,https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Fqa.noomis.febraban.org.br%3Fid%3Dauth137192&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&client_id=953908925017-ilqp35g5tprmclouve4aa88h33qb0olv.apps.googleusercontent.com&ss_domain=https%3A%2F%2Fqa.noomis.febraban.org.br&fetch_basic_profile=true&gsiwebsdk=2,343,0,224
+1567531796988,1158,login608 /accounts/CheckConnection,200,OK,Thread Group 1-1,text,true,,12385,911,1,1,https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1471234930&timestamp=1567434549631,1126,0,809
+1567531798147,181,login630 /o/oauth2/iframerpc,200,OK,Thread Group 1-1,text,true,,643,802,1,1,https://accounts.google.com/o/oauth2/iframerpc?action=issueToken&response_type=token%20id_token&login_hint=AJDLj6ITFJsmFe44FvXmOHTDy-LHHRA3OvDj6yLqUylJoL-SE_aj1mWTcug4hzjE6CCvEq8H2UIEC07EkOpJ2WSGItHG1NXrUrBzGA-kwrdGF4o2fTGiKdU&client_id=953908925017-ilqp35g5tprmclouve4aa88h33qb0olv.apps.googleusercontent.com&origin=https%3A%2F%2Fqa.noomis.febraban.org.br&scope=openid%20profile%20email&ss_domain=https%3A%2F%2Fqa.noomis.febraban.org.br,172,0,0
+1567531798328,378,login632 /qa/auth/signupwithgoogle,200,OK,Thread Group 1-1,text,true,,744,457,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/auth/signupwithgoogle,378,0,182
+1567531798706,174,login634 /qa/auth/user,200,OK,Thread Group 1-1,text,true,,743,445,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/auth/user,174,0,0
+1567531798881,338,login636 /qa/auth/user,200,OK,Thread Group 1-1,text,true,,2331,733,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/auth/user,338,0,0
+1567531799220,718,login637 /home,304,Not Modified,Thread Group 1-1,text,true,,651,468,1,1,https://qa.noomis.febraban.org.br/home,0,0,160
+1567531799939,317,login657 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,410,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,317,0,0
+1567531800257,200,login658 /qa/content?size=4&page=1&order=spotlight,200,OK,Thread Group 1-1,text,true,,743,499,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,200,0,0
+1567531800458,238,login667 /o/oauth2/iframe,200,OK,Thread Group 1-1,text,true,,1157,459,1,1,https://accounts.google.com/o/oauth2/iframe,235,0,124
+1567531800697,383,login661 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,743,495,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,383,0,192
+1567531801081,493,login659 /qa/author/getspecialistscard?qty=4,200,OK,Thread Group 1-1,text,true,,743,493,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,493,0,0
+1567531801575,205,login662 /qa/content?size=4&page=1&order=trend,200,OK,Thread Group 1-1,text,true,,743,495,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,205,0,0
+1567531801781,298,login660 /qa/content?size=4&page=1&order=recent,200,OK,Thread Group 1-1,text,true,,743,496,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,298,0,0
+1567531802080,215,login670 /qa/content?size=1&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,517,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,215,0,0
+1567531802296,516,log680 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,4619,781,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,515,0,0
+1567531802812,349,log678 /qa/content?size=2&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,517,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,349,0,171
+1567531803162,355,log679 /qa/content,200,OK,Thread Group 1-1,text,true,,16640,787,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,355,0,0
+1567531803518,517,log681 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,6180,783,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,517,0,0
+1567531804036,719,log682 /qa/content,200,OK,Thread Group 1-1,text,true,,14839,784,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,719,0,0
+1567531804756,710,loged688 /qa/content,200,OK,Thread Group 1-1,text,true,,26384,783,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,709,0,0
+1567531805467,643,loged690 /qa/content,200,OK,Thread Group 1-1,text,true,,2587,805,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,643,0,189
+1567531806111,428,loged693 /qa/content?size=1&page=1&order=recent&type=magazine,200,OK,Thread Group 1-1,text,true,,743,510,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,428,0,0
+1567531806539,226,loged697 /qa/content,200,OK,Thread Group 1-1,text,true,,7973,805,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,226,0,0
+1567531806766,475,loged706 /qa/content,200,OK,Thread Group 1-1,text,true,,1349,798,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,475,0,0
+1567531807242,459,especialistas738 /qa/author/getspecialistscard?qty=100,200,OK,Thread Group 1-1,text,true,,743,504,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=100,459,0,0
+1567531807701,699,especialistas751 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,9391,792,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=100,699,0,225
+1567531808400,413,perfil765 /editarPerfil,304,Not Modified,Thread Group 1-1,text,true,,652,460,1,1,https://qa.noomis.febraban.org.br/editarPerfil,0,0,177
+1567531808814,198,perfil766 /qa/tag,200,OK,Thread Group 1-1,text,true,,743,447,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/tag,198,0,0
+1567531809012,209,perfil768 /o/oauth2/iframe,200,OK,Thread Group 1-1,text,true,,1008,467,1,1,https://accounts.google.com/o/oauth2/iframe,208,0,97
+1567531809221,461,perfil770 /qa/tag,200,OK,Thread Group 1-1,text,true,,1199,735,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/tag,461,0,0
+1567531809683,213,em alta779 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,213,0,0
+1567531809897,736,em alta775 /qa/author/getall,200,OK,Thread Group 1-1,text,true,,12961,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getall,736,0,220
+1567531810634,467,em alta776 /qa/origin/getall,200,OK,Thread Group 1-1,text,true,,4302,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/origin/getall,467,0,0
+1567531811102,256,em alta778 /qa/magazine/filters,200,OK,Thread Group 1-1,text,true,,1719,397,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/magazine/filters,256,0,0
+1567531811358,215,em alta780 /qa/content?size=10&page=1&order=trend&type=recent,200,OK,Thread Group 1-1,text,true,,743,484,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=trend&type=recent,215,0,0
+1567531811574,257,em alta777 /qa/category/getall,200,OK,Thread Group 1-1,text,true,,2406,396,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/category/getall,257,0,0
+1567531811832,912,em alta783 /qa/content,200,OK,Thread Group 1-1,text,true,,63010,772,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=trend&type=recent,839,0,0
+1567531812745,393,em alta785 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,393,0,194
+1567531813139,209,video796 /qa/category/getall,200,OK,Thread Group 1-1,text,true,,2406,396,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/category/getall,209,0,0
+1567531813349,276,video799 /qa/content?size=10&page=1&order=recent&type=video,200,OK,Thread Group 1-1,text,true,,743,484,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=recent&type=video,276,0,0
+1567531813626,237,video797 /qa/magazine/filters,200,OK,Thread Group 1-1,text,true,,1719,397,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/magazine/filters,237,0,0
+1567531813865,234,video794 /qa/author/getall,200,OK,Thread Group 1-1,text,true,,12961,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getall,234,0,0
+1567531814100,492,video795 /qa/origin/getall,200,OK,Thread Group 1-1,text,true,,4302,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/origin/getall,492,0,0
+1567531814593,500,video798 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,500,0,0
+1567531815094,822,video802 /qa/content,200,OK,Thread Group 1-1,text,true,,31816,772,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=recent&type=video,820,0,200
+1567531815917,274,video804 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,274,0,0
+1567531816197,476,home815 /qa/content?size=4&page=1&order=recent,200,OK,Thread Group 1-1,text,true,,743,470,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,476,0,0
+1567531816674,484,home812 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,384,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,484,0,0
+1567531817158,620,home813 /qa/author/getspecialistscard?qty=4,200,OK,Thread Group 1-1,text,true,,743,467,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,620,0,191
+1567531817779,273,home814 /qa/content?size=4&page=1&order=spotlight,200,OK,Thread Group 1-1,text,true,,743,473,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,273,0,0
+1567531818053,517,home817 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,743,469,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,517,0,0
+1567531818572,511,home816 /qa/content?size=4&page=1&order=trend,200,OK,Thread Group 1-1,text,true,,743,469,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,511,0,0
+1567531819084,258,home824 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,6180,757,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,258,0,0
+1567531819343,658,home820 /qa/content?size=2&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,491,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,658,0,208
+1567531820002,272,home818 /qa/content?size=1&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,491,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,272,0,0
+1567531820275,246,home825 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,4619,755,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,246,0,0
+1567531820522,299,home821 /qa/content?size=1&page=1&order=recent&type=magazine,200,OK,Thread Group 1-1,text,true,,743,484,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,299,0,0
+1567531820822,636,home823 /qa/content,200,OK,Thread Group 1-1,text,true,,26384,757,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,624,0,0
+1567531821459,4658,home822 /qa/content,200,OK,Thread Group 1-1,text,true,,16640,761,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,4642,0,4036
+1567531826118,1053,home819 /qa/content,200,OK,Thread Group 1-1,text,true,,14839,758,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,1053,0,370
+1567531827172,325,home828 /qa/content,200,OK,Thread Group 1-1,text,true,,7973,779,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,325,0,0
+1567531827498,598,home829 /qa/content,200,OK,Thread Group 1-1,text,true,,2587,779,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,598,0,0
+1567531828096,485,home831 /qa/content,200,OK,Thread Group 1-1,text,true,,1349,772,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,485,0,0
+1567531828583,4524,noomis503 /home,200,OK,Thread Group 1-1,text,true,,3272,485,1,1,https://qa.noomis.febraban.org.br/home,4524,0,3892
+1567531833108,394,noomis540 /o/oauth2/iframe,200,OK,Thread Group 1-1,text,true,,1153,502,1,1,https://accounts.google.com/o/oauth2/iframe,393,0,280
+1567531833503,869,noomis531 /qa/content,200,OK,Thread Group 1-1,text,true,,26384,455,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,846,0,238
+1567531834372,248,noomis530 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,6291,455,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,248,0,0
+1567531834620,490,noomis526 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,427,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,490,0,0
+1567531835111,673,noomis528 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,4619,453,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,673,0,0
+1567531835785,1092,noomis527 /qa/content,200,OK,Thread Group 1-1,text,true,,16640,459,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,1092,0,560
+1567531836878,460,noomis529 /qa/content,200,OK,Thread Group 1-1,text,true,,14839,456,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,460,0,0
+1567531837339,272,noomis565 /qa/content,200,OK,Thread Group 1-1,text,true,,1349,470,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,272,0,0
+1567531837612,466,noomis560 /qa/content,200,OK,Thread Group 1-1,text,true,,2587,477,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,466,0,0
+1567531838078,584,noomis561 /qa/content,200,OK,Thread Group 1-1,text,true,,7973,477,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,584,0,362
+1567531838662,263,login606 /o/oauth2/auth,200,OK,Thread Group 1-1,text,true,,1895,794,1,1,https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Fqa.noomis.febraban.org.br%3Fid%3Dauth137192&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&client_id=953908925017-ilqp35g5tprmclouve4aa88h33qb0olv.apps.googleusercontent.com&ss_domain=https%3A%2F%2Fqa.noomis.febraban.org.br&fetch_basic_profile=true&gsiwebsdk=2,262,0,104
+1567531839364,345,login608 /accounts/CheckConnection,200,OK,Thread Group 1-1,text,true,,12445,911,1,1,https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1471234930&timestamp=1567434549631,338,0,211
+1567531839719,133,login630 /o/oauth2/iframerpc,200,OK,Thread Group 1-1,text,true,,598,802,1,1,https://accounts.google.com/o/oauth2/iframerpc?action=issueToken&response_type=token%20id_token&login_hint=AJDLj6ITFJsmFe44FvXmOHTDy-LHHRA3OvDj6yLqUylJoL-SE_aj1mWTcug4hzjE6CCvEq8H2UIEC07EkOpJ2WSGItHG1NXrUrBzGA-kwrdGF4o2fTGiKdU&client_id=953908925017-ilqp35g5tprmclouve4aa88h33qb0olv.apps.googleusercontent.com&origin=https%3A%2F%2Fqa.noomis.febraban.org.br&scope=openid%20profile%20email&ss_domain=https%3A%2F%2Fqa.noomis.febraban.org.br,133,0,0
+1567531839853,178,login632 /qa/auth/signupwithgoogle,200,OK,Thread Group 1-1,text,true,,744,457,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/auth/signupwithgoogle,178,0,0
+1567531840032,446,login634 /qa/auth/user,200,OK,Thread Group 1-1,text,true,,743,445,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/auth/user,446,0,0
+1567531840479,614,login636 /qa/auth/user,200,OK,Thread Group 1-1,text,true,,2331,733,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/auth/user,614,0,166
+1567531841094,445,login637 /home,304,Not Modified,Thread Group 1-1,text,true,,651,468,1,1,https://qa.noomis.febraban.org.br/home,0,0,167
+1567531841540,191,login657 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,410,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,191,0,0
+1567531841732,340,login658 /qa/content?size=4&page=1&order=spotlight,200,OK,Thread Group 1-1,text,true,,743,499,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,339,0,0
+1567531842072,261,login667 /o/oauth2/iframe,200,OK,Thread Group 1-1,text,true,,1303,459,1,1,https://accounts.google.com/o/oauth2/iframe,258,0,140
+1567531842333,295,login661 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,743,495,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,295,0,0
+1567531842629,758,login659 /qa/author/getspecialistscard?qty=4,200,OK,Thread Group 1-1,text,true,,743,493,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,758,0,326
+1567531843389,679,login662 /qa/content?size=4&page=1&order=trend,200,OK,Thread Group 1-1,text,true,,743,495,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,679,0,0
+1567531844068,570,login660 /qa/content?size=4&page=1&order=recent,200,OK,Thread Group 1-1,text,true,,743,496,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,570,0,0
+1567531844639,564,login670 /qa/content?size=1&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,517,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,564,0,133
+1567531845203,464,log680 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,4619,781,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,464,0,0
+1567531845668,545,log678 /qa/content?size=2&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,517,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,545,0,0
+1567531846213,933,log679 /qa/content,200,OK,Thread Group 1-1,text,true,,16640,787,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,933,0,0
+1567531847147,750,log681 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,6180,783,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,750,0,224
+1567531847897,617,log682 /qa/content,200,OK,Thread Group 1-1,text,true,,14839,784,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,617,0,0
+1567531848514,374,loged688 /qa/content,200,OK,Thread Group 1-1,text,true,,26384,783,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,374,0,0
+1567531848888,205,loged690 /qa/content,200,OK,Thread Group 1-1,text,true,,2587,805,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,205,0,0
+1567531849094,287,loged693 /qa/content?size=1&page=1&order=recent&type=magazine,200,OK,Thread Group 1-1,text,true,,743,510,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,287,0,0
+1567531849381,449,loged697 /qa/content,200,OK,Thread Group 1-1,text,true,,7973,805,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,449,0,219
+1567531849831,465,loged706 /qa/content,200,OK,Thread Group 1-1,text,true,,1349,798,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,465,0,0
+1567531850297,430,especialistas738 /qa/author/getspecialistscard?qty=100,200,OK,Thread Group 1-1,text,true,,743,504,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=100,430,0,0
+1567531850728,214,especialistas751 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,9391,792,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=100,214,0,0
+1567531850943,662,perfil765 /editarPerfil,304,Not Modified,Thread Group 1-1,text,true,,652,460,1,1,https://qa.noomis.febraban.org.br/editarPerfil,0,0,173
+1567531851605,644,perfil766 /qa/tag,200,OK,Thread Group 1-1,text,true,,743,447,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/tag,644,0,192
+1567531852250,361,perfil768 /o/oauth2/iframe,200,OK,Thread Group 1-1,text,true,,1170,467,1,1,https://accounts.google.com/o/oauth2/iframe,356,0,209
+1567531852612,202,perfil770 /qa/tag,200,OK,Thread Group 1-1,text,true,,1199,735,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/tag,202,0,0
+1567531852815,491,em alta779 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,491,0,0
+1567531853307,250,em alta775 /qa/author/getall,200,OK,Thread Group 1-1,text,true,,12961,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getall,250,0,0
+1567531853558,239,em alta776 /qa/origin/getall,200,OK,Thread Group 1-1,text,true,,4302,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/origin/getall,239,0,0
+1567531853797,457,em alta778 /qa/magazine/filters,200,OK,Thread Group 1-1,text,true,,1719,397,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/magazine/filters,457,0,235
+1567531854255,192,em alta780 /qa/content?size=10&page=1&order=trend&type=recent,200,OK,Thread Group 1-1,text,true,,743,484,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=trend&type=recent,192,0,0
+1567531854447,228,em alta777 /qa/category/getall,200,OK,Thread Group 1-1,text,true,,2406,396,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/category/getall,228,0,0
+1567531854675,749,em alta783 /qa/content,200,OK,Thread Group 1-1,text,true,,63010,772,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=trend&type=recent,607,0,0
+1567531855424,215,em alta785 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,215,0,0
+1567531855639,189,video796 /qa/category/getall,200,OK,Thread Group 1-1,text,true,,2406,396,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/category/getall,189,0,0
+1567531855828,615,video799 /qa/content?size=10&page=1&order=recent&type=video,200,OK,Thread Group 1-1,text,true,,743,484,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=recent&type=video,615,0,177
+1567531856444,544,video797 /qa/magazine/filters,200,OK,Thread Group 1-1,text,true,,1719,397,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/magazine/filters,544,0,0
+1567531856989,491,video794 /qa/author/getall,200,OK,Thread Group 1-1,text,true,,12961,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getall,491,0,0
+1567531857481,476,video795 /qa/origin/getall,200,OK,Thread Group 1-1,text,true,,4302,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/origin/getall,476,0,0
+1567531857958,414,video798 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,414,0,219
+1567531858373,649,video802 /qa/content,200,OK,Thread Group 1-1,text,true,,31816,772,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=recent&type=video,649,0,0
+1567531859022,517,video804 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,517,0,0
+1567531859539,654,home815 /qa/content?size=4&page=1&order=recent,200,OK,Thread Group 1-1,text,true,,743,470,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,654,0,0
+1567531860194,647,home812 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,384,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,647,0,182
+1567531860841,434,home813 /qa/author/getspecialistscard?qty=4,200,OK,Thread Group 1-1,text,true,,743,467,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,434,0,0
+1567531861275,455,home814 /qa/content?size=4&page=1&order=spotlight,200,OK,Thread Group 1-1,text,true,,743,473,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,454,0,0
+1567531861730,356,home817 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,743,469,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,356,0,0
+1567531862086,213,home816 /qa/content?size=4&page=1&order=trend,200,OK,Thread Group 1-1,text,true,,743,469,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,213,0,0
+1567531862300,414,home824 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,6180,757,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,414,0,166
+1567531862718,289,home820 /qa/content?size=2&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,491,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,289,0,0
+1567531863008,437,home818 /qa/content?size=1&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,491,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,437,0,0
+1567531863445,617,home825 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,4619,755,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,617,0,0
+1567531864063,564,home821 /qa/content?size=1&page=1&order=recent&type=magazine,200,OK,Thread Group 1-1,text,true,,743,484,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,564,0,0
+1567531864628,606,home823 /qa/content,200,OK,Thread Group 1-1,text,true,,26384,757,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,605,0,178
+1567531865235,604,home822 /qa/content,200,OK,Thread Group 1-1,text,true,,16640,761,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,604,0,0
+1567531865840,418,home819 /qa/content,200,OK,Thread Group 1-1,text,true,,14839,758,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,418,0,0
+1567531866258,477,home828 /qa/content,200,OK,Thread Group 1-1,text,true,,7973,779,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,477,0,0
+1567531866735,584,home829 /qa/content,200,OK,Thread Group 1-1,text,true,,2587,779,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,584,0,136
+1567531867319,332,home831 /qa/content,200,OK,Thread Group 1-1,text,true,,1349,772,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,332,0,0
+1567531867652,436,noomis503 /home,200,OK,Thread Group 1-1,text,true,,3272,485,1,1,https://qa.noomis.febraban.org.br/home,436,0,208
+1567531868088,375,noomis540 /o/oauth2/iframe,200,OK,Thread Group 1-1,text,true,,1112,502,1,1,https://accounts.google.com/o/oauth2/iframe,371,0,250
+1567531868464,1275,noomis531 /qa/content,200,OK,Thread Group 1-1,text,true,,26384,455,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,799,0,186
+1567531869739,484,noomis530 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,6291,455,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,484,0,0
+1567531870224,228,noomis526 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,427,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,228,0,0
+1567531870452,241,noomis528 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,4619,453,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,241,0,0
+1567531870694,580,noomis527 /qa/content,200,OK,Thread Group 1-1,text,true,,16640,459,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,580,0,207
+1567531871274,628,noomis529 /qa/content,200,OK,Thread Group 1-1,text,true,,14839,456,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,628,0,0
+1567531871902,478,noomis565 /qa/content,200,OK,Thread Group 1-1,text,true,,1349,470,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,478,0,0
+1567531872381,222,noomis560 /qa/content,200,OK,Thread Group 1-1,text,true,,2587,477,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,222,0,0
+1567531872604,200,noomis561 /qa/content,200,OK,Thread Group 1-1,text,true,,7973,477,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,200,0,0
+1567531872806,316,login606 /o/oauth2/auth,200,OK,Thread Group 1-1,text,true,,1880,794,1,1,https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Fqa.noomis.febraban.org.br%3Fid%3Dauth137192&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&client_id=953908925017-ilqp35g5tprmclouve4aa88h33qb0olv.apps.googleusercontent.com&ss_domain=https%3A%2F%2Fqa.noomis.febraban.org.br&fetch_basic_profile=true&gsiwebsdk=2,313,0,166
+1567531873445,803,login608 /accounts/CheckConnection,200,OK,Thread Group 1-1,text,true,,12550,911,1,1,https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1471234930&timestamp=1567434549631,797,0,661
+1567531874248,133,login630 /o/oauth2/iframerpc,200,OK,Thread Group 1-1,text,true,,787,802,1,1,https://accounts.google.com/o/oauth2/iframerpc?action=issueToken&response_type=token%20id_token&login_hint=AJDLj6ITFJsmFe44FvXmOHTDy-LHHRA3OvDj6yLqUylJoL-SE_aj1mWTcug4hzjE6CCvEq8H2UIEC07EkOpJ2WSGItHG1NXrUrBzGA-kwrdGF4o2fTGiKdU&client_id=953908925017-ilqp35g5tprmclouve4aa88h33qb0olv.apps.googleusercontent.com&origin=https%3A%2F%2Fqa.noomis.febraban.org.br&scope=openid%20profile%20email&ss_domain=https%3A%2F%2Fqa.noomis.febraban.org.br,131,0,0
+1567531874381,617,login632 /qa/auth/signupwithgoogle,200,OK,Thread Group 1-1,text,true,,744,457,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/auth/signupwithgoogle,617,0,176
+1567531874999,443,login634 /qa/auth/user,200,OK,Thread Group 1-1,text,true,,743,445,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/auth/user,443,0,0
+1567531875442,217,login636 /qa/auth/user,200,OK,Thread Group 1-1,text,true,,2331,733,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/auth/user,217,0,0
+1567531875659,409,login637 /home,304,Not Modified,Thread Group 1-1,text,true,,651,468,1,1,https://qa.noomis.febraban.org.br/home,0,0,168
+1567531876068,286,login657 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,410,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,286,0,0
+1567531876354,189,login658 /qa/content?size=4&page=1&order=spotlight,200,OK,Thread Group 1-1,text,true,,743,499,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,189,0,0
+1567531876544,212,login667 /o/oauth2/iframe,200,OK,Thread Group 1-1,text,true,,1262,459,1,1,https://accounts.google.com/o/oauth2/iframe,211,0,94
+1567531876756,755,login661 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,743,495,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,755,0,313
+1567531877511,448,login659 /qa/author/getspecialistscard?qty=4,200,OK,Thread Group 1-1,text,true,,743,493,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,448,0,0
+1567531877960,185,login662 /qa/content?size=4&page=1&order=trend,200,OK,Thread Group 1-1,text,true,,743,495,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,185,0,0
+1567531878146,480,login660 /qa/content?size=4&page=1&order=recent,200,OK,Thread Group 1-1,text,true,,743,496,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,480,0,0
+1567531878626,193,login670 /qa/content?size=1&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,517,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,193,0,0
+1567531878819,435,log680 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,4619,781,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,435,0,233
+1567531879255,448,log678 /qa/content?size=2&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,517,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,448,0,0
+1567531879704,270,log679 /qa/content,200,OK,Thread Group 1-1,text,true,,16640,787,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,270,0,0
+1567531879974,244,log681 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,6180,783,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,244,0,0
+1567531880235,589,log682 /qa/content,200,OK,Thread Group 1-1,text,true,,14839,784,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,589,0,0
+1567531880824,633,loged688 /qa/content,200,OK,Thread Group 1-1,text,true,,26384,783,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,632,0,224
+1567531881458,220,loged690 /qa/content,200,OK,Thread Group 1-1,text,true,,2587,805,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,220,0,0
+1567531881680,482,loged693 /qa/content?size=1&page=1&order=recent&type=magazine,200,OK,Thread Group 1-1,text,true,,743,510,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,482,0,0
+1567531882163,237,loged697 /qa/content,200,OK,Thread Group 1-1,text,true,,7973,805,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,237,0,0
+1567531882400,307,loged706 /qa/content,200,OK,Thread Group 1-1,text,true,,1349,798,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,307,0,0
+1567531882707,581,especialistas738 /qa/author/getspecialistscard?qty=100,200,OK,Thread Group 1-1,text,true,,743,504,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=100,581,0,0
+1567531883289,1121,especialistas751 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,9391,792,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=100,1121,0,636
+1567531884412,1015,perfil765 /editarPerfil,304,Not Modified,Thread Group 1-1,text,true,,652,460,1,1,https://qa.noomis.febraban.org.br/editarPerfil,0,0,474
+1567531885428,647,perfil766 /qa/tag,200,OK,Thread Group 1-1,text,true,,743,447,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/tag,647,0,197
+1567531886076,257,perfil768 /o/oauth2/iframe,200,OK,Thread Group 1-1,text,true,,1245,467,1,1,https://accounts.google.com/o/oauth2/iframe,255,0,140
+1567531886334,291,perfil770 /qa/tag,200,OK,Thread Group 1-1,text,true,,1199,735,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/tag,291,0,0
+1567531886626,492,em alta779 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,492,0,0
+1567531887118,269,em alta775 /qa/author/getall,200,OK,Thread Group 1-1,text,true,,12961,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getall,269,0,0
+1567531887388,613,em alta776 /qa/origin/getall,200,OK,Thread Group 1-1,text,true,,4302,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/origin/getall,613,0,0
+1567531888002,3957,em alta778 /qa/magazine/filters,200,OK,Thread Group 1-1,text,true,,1719,397,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/magazine/filters,3957,0,3434
+1567531891960,412,em alta780 /qa/content?size=10&page=1&order=trend&type=recent,200,OK,Thread Group 1-1,text,true,,743,484,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=trend&type=recent,412,0,223
+1567531892373,466,em alta777 /qa/category/getall,200,OK,Thread Group 1-1,text,true,,2406,396,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/category/getall,466,0,0
+1567531892840,706,em alta783 /qa/content,200,OK,Thread Group 1-1,text,true,,63010,772,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=trend&type=recent,523,0,0
+1567531893547,297,em alta785 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,297,0,0
+1567531893845,527,video796 /qa/category/getall,200,OK,Thread Group 1-1,text,true,,2406,396,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/category/getall,527,0,0
+1567531894373,778,video799 /qa/content?size=10&page=1&order=recent&type=video,200,OK,Thread Group 1-1,text,true,,743,484,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=recent&type=video,778,0,293
+1567531895152,526,video797 /qa/magazine/filters,200,OK,Thread Group 1-1,text,true,,1719,397,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/magazine/filters,526,0,0
+1567531895679,495,video794 /qa/author/getall,200,OK,Thread Group 1-1,text,true,,12961,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getall,495,0,0
+1567531896175,208,video795 /qa/origin/getall,200,OK,Thread Group 1-1,text,true,,4302,394,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/origin/getall,208,0,0
+1567531896384,633,video798 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,633,0,177
+1567531897018,608,video802 /qa/content,200,OK,Thread Group 1-1,text,true,,31816,772,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=10&page=1&order=recent&type=video,600,0,0
+1567531897626,455,video804 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,386,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,455,0,0
+1567531898082,426,home815 /qa/content?size=4&page=1&order=recent,200,OK,Thread Group 1-1,text,true,,743,470,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,426,0,0
+1567531898508,599,home812 /qa/theme,200,OK,Thread Group 1-1,text,true,,1745,384,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/theme,599,0,148
+1567531899107,232,home813 /qa/author/getspecialistscard?qty=4,200,OK,Thread Group 1-1,text,true,,743,467,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,232,0,0
+1567531899340,235,home814 /qa/content?size=4&page=1&order=spotlight,200,OK,Thread Group 1-1,text,true,,743,473,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,235,0,0
+1567531899576,180,home817 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,743,469,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,180,0,0
+1567531899756,441,home816 /qa/content?size=4&page=1&order=trend,200,OK,Thread Group 1-1,text,true,,743,469,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,441,0,0
+1567531900198,601,home824 /qa/content/getcontentbyinteresttheme,200,OK,Thread Group 1-1,text,true,,6180,757,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content/getcontentbyinteresttheme,600,0,0
+1567531900799,717,home820 /qa/content?size=2&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,491,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,717,0,277
+1567531901517,529,home818 /qa/content?size=1&page=1&order=recent&type=video&ciab=true,200,OK,Thread Group 1-1,text,true,,743,491,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,529,0,0
+1567531902047,223,home825 /qa/author/getspecialistscard,200,OK,Thread Group 1-1,text,true,,4619,755,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/author/getspecialistscard?qty=4,223,0,0
+1567531902270,461,home821 /qa/content?size=1&page=1&order=recent&type=magazine,200,OK,Thread Group 1-1,text,true,,743,484,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,461,0,0
+1567531902734,632,home823 /qa/content,200,OK,Thread Group 1-1,text,true,,26384,757,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=trend,631,0,0
+1567531903367,864,home822 /qa/content,200,OK,Thread Group 1-1,text,true,,16640,761,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=spotlight,864,0,243
+1567531904232,735,home819 /qa/content,200,OK,Thread Group 1-1,text,true,,14839,758,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=4&page=1&order=recent,735,0,0
+1567531904968,343,home828 /qa/content,200,OK,Thread Group 1-1,text,true,,7973,779,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=2&page=1&order=recent&type=video&ciab=true,343,0,0
+1567531905311,219,home829 /qa/content,200,OK,Thread Group 1-1,text,true,,2587,779,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=video&ciab=true,219,0,0
+1567531905530,594,home831 /qa/content,200,OK,Thread Group 1-1,text,true,,1349,772,1,1,https://pc-ap1-qa.noomis.febraban.org.br/qa/content?size=1&page=1&order=recent&type=magazine,594,0,138
